@@ -1,0 +1,3 @@
+
+npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force //create an empty project
+npm i uuid //create an uuid
